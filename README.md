@@ -20,5 +20,5 @@ http://localhost:8080/createAndRedirect
 
 Status | Credit Card | Number | Holder | Expiration | CVV | DNI | Email 
 ------ | ----------- | ------ | ------ | ---------- | --- | --- | ----- 
-REJECTED | Mastercard | 5031755734530604| 11/25 | EXPI GOMEZ | 123 | 31256588 | expi_gomez@gmail.com |
-APROVED | Mastercard |  5031755734530604 | 11/25 | APRO GOMEZ | 123 | 31256588 | apro_gomez@gmail.com
+REJECTED | Mastercard | 5031755734530604| EXPI GOMEZ | 11/25 | 123 | 31256588 | expi_gomez@gmail.com |
+APROVED | Mastercard |  5031755734530604 | APRO GOMEZ | 11/25 | 123 | 31256588 | apro_gomez@gmail.com
