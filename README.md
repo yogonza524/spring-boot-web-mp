@@ -16,7 +16,7 @@ MP_ACCESS_TOKEN=[PASTE_YOUR_ACCESS_TOKEN_HERE] ./gradlew bootRun
 ```bash
 http://localhost:8080/createAndRedirect
 ``` 
-3. Make your payment journey
+3. Make your payment journey using **Credit Card**
 
 Status | Credit Card | Number | Holder | Expiration | CVV | DNI | Email 
 ------ | ----------- | ------ | ------ | ---------- | --- | --- | ----- 
