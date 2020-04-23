@@ -16,3 +16,9 @@ MP_ACCESS_TOKEN=[PASTE_YOUR_ACCESS_TOKEN_HERE] ./gradlew bootRun
 ```bash
 http://localhost:8080/createAndRedirect
 ``` 
+3. Make your payment journey
+
+Status | Credit Card | Number | Holder | Expiration | CVV | DNI | Email 
+------ | ----------- | ------ | ------ | ---------- | --- | --- | ----- 
+REJECTED | Mastercard | 5031755734530604| 11/25 | EXPI GOMEZ | 123 | 31256588 | expi_gomez@gmail.com |
+APROVED | Mastercard |  5031755734530604 | 11/25 | APRO GOMEZ | 123 | 31256588 | apro_gomez@gmail.com
